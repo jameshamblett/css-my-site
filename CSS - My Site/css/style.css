@@ -18,6 +18,11 @@ h3 {
     font-family: 'Montserrat', sans-serif;
 }
 
+.profile-img{
+  border-radius: 50%;
+  height: 250px;
+}
+
 .top-container {
   background-color: #E4F9F5;
   position: relative;
